@@ -1,0 +1,9 @@
+.linkCreate{
+    padding: 8px 10px !important;
+}
+.select2{
+    width: 100% !important;
+}
+.table tbody>tr>td.vert-align{
+    vertical-align: middle;
+}
